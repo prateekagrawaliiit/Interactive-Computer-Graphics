@@ -1,0 +1,1 @@
+## The following repository contains source codes for various shapes and algorithms as a part of Interactive Computer Graphics Practical course
